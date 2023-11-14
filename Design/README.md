@@ -19,7 +19,7 @@
     - `Security & Privacy` is a fundamental aspect of developing highly secure applications & systems
     - Security requirements must be `continually` updated
     - Changes must be identified and threat landscape must be updated based on changes
-    -  Best Time to Define Security Requirements:
+    - Best Time to Define Security Requirements:
       - Initial Design
       - Planing Stages
     - Factors That Influence Security Requirements
