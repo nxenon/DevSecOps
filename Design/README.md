@@ -32,4 +32,3 @@
     - Security Requirements must be tracked by:
       - either work-tracking system
       - or telemetry derived from engineering pipeline
-g
