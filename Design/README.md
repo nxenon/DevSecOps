@@ -76,3 +76,9 @@
 - Use Approved Tools
   - Define and publish a list of approved tools and their associated security checks
   - These tools must be updated
+- Perform Static Analysis Security Testing (SAST)
+  - Analyzing source code before compilation:
+    - is a highly scalable method of security code review
+    - helps ensure secure coding policies are being followed
+  - SAST is typically integrated into the `commit pipeline`
+  - SAST can be also be in used when the developer `is` coding (IDE Plugins)
