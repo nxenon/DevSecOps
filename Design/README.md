@@ -62,3 +62,8 @@
 - Establish Design Requirements
   - engineers typically rely on cryptography, authentication, logging, and others
   - `But` in many cases **Design** or **implementation** result in security vulnerabilities
+- Define and Use Cryptography Standards
+  - Data must be encrypted when transmitted or stored
+  - Incorrect choice of cryptography can be catastrophic
+  - It is best to have or develop a encryption standards
+  - Encryption libraries must be implemented in a way that can be replaced easily when needed
