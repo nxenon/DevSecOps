@@ -30,5 +30,22 @@
       - Review of Previous Incidents
       - Review of Known Threats
     - Security Requirements must be tracked by:
-      - either work-tracking system
-      - or telemetry derived from engineering pipeline
+      - Either work-tracking system
+      - Or telemetry derived from engineering pipeline
+  - Define Metrics and Compliance Reporting 
+    - Define `minimum` acceptable level
+    - Hold teams accountable to meeting that criteria
+    - Define Minimum Level Helps:
+      - Teams understand risks associated with security issues
+      - Identify and fix security issues during development (faster response time)
+      - Apply the standards throughout the entire project
+    - Set a Bug Bar (Bug Level or Severity) Helps:
+      - Identify critical and important severity bugs
+      - All bug levels must fix in a specified time (based on severity)
+    - In order to Track KPI and Ensure Security Tasks Are Done:
+      - Use bug tracking mechanism
+      - Or use work tracking mechanism
+      - For example: Azure DevOps
+      - All security works must be labeled and tracked
+    - Perform Threat Modeling
+    TODO
