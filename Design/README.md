@@ -59,3 +59,6 @@
     - Identify Security Vulnerabilities from threats:
       - more effectively
       - lese expensively
+- Establish Design Requirements
+  - engineers typically rely on cryptography, authentication, logging, and others
+  - `But` in many cases **Design** or **implementation** result in security vulnerabilities
