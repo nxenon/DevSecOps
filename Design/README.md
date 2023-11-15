@@ -47,5 +47,15 @@
     - Or use work tracking mechanism
     - For example: Azure DevOps
     - All security works must be labeled and tracked
-  - Perform Threat Modeling
-  TODO
+- Perform Threat Modeling
+  - should be used in environments where there is meaningful security risk
+  - Threat Modeling Can Be Applied at:
+    - Component
+    - Application
+    - System Level
+  - Threat Modeling is a Practice That Allows Development Team:
+    - `Consider` / `Document` / `Discuss` security implications
+  - Applying a structured approach helps a team:
+    - Identify Security Vulnerabilities from threats:
+      - more effectively
+      - lese expensively
