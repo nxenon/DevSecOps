@@ -73,3 +73,6 @@
     - have an accurate inventory of third-party components
     - have a plan to response when new vulnerabilities are discovered
     - additional validation based on organization risk level (based on type of component and potential vulnerabilities)
+- Use Approved Tools
+  - Define and publish a list of approved tools and their associated security checks
+  - These tools must be updated
