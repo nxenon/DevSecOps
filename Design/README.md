@@ -82,3 +82,10 @@
     - helps ensure secure coding policies are being followed
   - SAST is typically integrated into the `commit pipeline`
   - SAST can be also be in used when the developer `is` coding (IDE Plugins)
+- Perform Penetration Testing
+  - simulating actions of a real hacker by skilled security professionals
+  - Penetration Testing Helps Uncover Vulnerabilities Resulting From:
+    - Coding errors
+    - System configuration faults
+    - Or other operational deployment weaknesses
+  - Penetration tests are often performed `in conjunction with` automated and manual code reviews
