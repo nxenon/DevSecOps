@@ -67,3 +67,9 @@
   - Incorrect choice of cryptography can be catastrophic
   - It is best to have or develop a encryption standards
   - Encryption libraries must be implemented in a way that can be replaced easily when needed
+- Manage the Security Risk of Using Third-Party Components
+  - Vulnerabilities in third-party components can cause vulnerabilities in a bigger system they have integrated to
+  - To Mitigate Risks:
+    - have an accurate inventory of third-party components
+    - have a plan to response when new vulnerabilities are discovered
+    - additional validation based on organization risk level (based on type of component and potential vulnerabilities)
