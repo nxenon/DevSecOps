@@ -89,3 +89,7 @@
     - System configuration faults
     - Or other operational deployment weaknesses
   - Penetration tests are often performed `in conjunction with` automated and manual code reviews
+- Establish a Standard Incident Response Process 
+  - Preparing an Incident Response (IR) Plan is essential to solve new threats
+  - IR Plan should be created `in coordination with` Product Security Incident Response Team (PSIRT) team
+  - IR Plan should be tested before it is needed !
