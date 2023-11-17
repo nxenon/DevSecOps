@@ -1,4 +1,4 @@
-# [SDL (Secure Development Lifecycle) by Microsoft](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
+# [SDL (Security Development Lifecycle) by Microsoft](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
 
 ## Provide Training:
   - Developers, engineers and even managers must understand security basics
