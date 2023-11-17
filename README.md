@@ -2,7 +2,9 @@
 DevSecOps **Taken Notes** from articles `in addition to` resources for DevSecOps.
 
 # Design / Plan
-In Design / Plan phase, threat models should be defined and designed, risks and plans for preventing threats from happening should be identified. In addition, security requirements must be defined.
+In **Design** / **Plan** Phase:
+- Threat Models & Security Requirements should be designed and defined
+- Risks & Plans for preventing threats from happening should be identified
 
 ## Notes:
 - Development Lifecycle
