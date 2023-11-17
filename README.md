@@ -6,11 +6,11 @@ In Design / Plan phase, threat models should be defined and designed, risks and 
 
 ## Notes:
 - Development Lifecycle
-  - [SDL (Secure Development Lifecycle) by Microsoft](./Design/README.md#sdl--secure-development-lifecycle--by-microsoft)
-  - [How to Ensure Security at the Speed of DevSecOps by Gitlab](./Design/README.md#how-to-ensure-security-at-the-speed-of-devops-by-gitlab)
+  - [SDL (Secure Development Lifecycle) by Microsoft](./Design/Development-Lifecycle/SDL-by-Microsoft.md)
+  - [How to Ensure Security at the Speed of DevSecOps by Gitlab](./Design/Development-Lifecycle/How-to-Ensure-Security-at-the-Speed-of-DevOps-by-Gitlab.md)
 - Threat Model
-  - [Threat Modeling by OWASP](./Design/README.md#threat-modeling-by-owasp)
-  - [Structured Threat Modeling Process by OWASP](./Design/README.md#structured-threat-modeling-process-by-owasp)
+  - [Threat Modeling by OWASP](./Design/Threat-Model/Threat-Modeling-by-OWASP.md)
+  - [Structured Threat Modeling Process by OWASP](./Design/Threat-Model/Threat-Modeling-Process-By-OWASP.md)
 
 # Reference
 [DevSecOps Roadmap](https://github.com/hahwul/DevSecOps)
