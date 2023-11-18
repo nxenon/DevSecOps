@@ -29,7 +29,7 @@ In **Develop** Phase:
 # DevSecOps Tools
 - Vulnerability Management
   - DefectDojo
-    - [DefectDojo Installation Notes](./Tools/DefectDojo/Install-Setup.md)
+    - [DefectDojo Installation & Setup Notes](./Tools/DefectDojo/Install-Setup.md)
 
 # Reference
 [DevSecOps Roadmap](https://github.com/hahwul/DevSecOps)
