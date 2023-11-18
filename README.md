@@ -28,6 +28,23 @@ In **Develop** Phase:
   - [Semgrep](https://semgrep.dev/)
   - [Snyk](https://snyk.io/)
 
+# Build
+In **Build** Phase:
+  - Static Application Security Testing (SAST) should be used to find security issues in code
+  - Software Composition Analysis (SCA) & Software Bill of Material (SBOM) should be done to find components and compare them against a database like National Vulnerability Database
+  - Secret Management should be implemented to find **Secrets** in code
+  - Interactive Application Security Testing (IAST) should be performed to test in an automated way and find vulnerabilities faster in run-time
+
+## Notes & Resources
+- Static Application Security Testing (SAST)
+  - TODO
+- Software Composition Analysis (SCA)
+  - TODO
+- Secret Management
+  - TODO
+- Interactive Application Security Testing (IAST)
+  - TODO
+
 # DevSecOps Tools
 - Vulnerability Management
   - DefectDojo
