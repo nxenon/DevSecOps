@@ -14,6 +14,9 @@
         sudo ./dc-up-d.sh mysql-rabbitmq --env-file ./docker/environments/mysql-rabbitmq.env
 - [Change Admin Password](#change-admin-password)
 - Go to `http://localhost:8080` and Login with admin user and your new password
+- To see logs:
+
+        docker compose logs initializer
 
 ### Scripts
 
