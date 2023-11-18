@@ -26,5 +26,10 @@ In **Develop** Phase:
 - SAST in Developer's Environment
   - TODO
 
+# DevSecOps Tools
+- Vulnerability Management
+  - DefectDojo
+    - [DefectDojo Installation Notes](./Tools/DefectDojo/Install-Setup.md)
+
 # Reference
 [DevSecOps Roadmap](https://github.com/hahwul/DevSecOps)
