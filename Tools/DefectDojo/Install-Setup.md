@@ -18,6 +18,19 @@
 
         docker compose logs initializer
 
+### Setup HTTPS
+- Auto Generated Certificate
+  - Steps
+
+
+      cd django-DefectDojo
+      rm -f docker-compose.override.yml
+      ln -s docker-compose.override.https.yml docker-compose.override.yml
+  - Open https://server_ip:8443
+
+- Custom Certificate:
+  - TODO
+
 ### Scripts
 
 `./dc-build.sh` - Build the docker images, it can take one additional parameter to be used in the build process, e.g. ./dc-build.sh --no-cache.
