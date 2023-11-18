@@ -22,10 +22,9 @@
 - Auto Generated Certificate
   - Steps
 
-
-      cd django-DefectDojo
-      rm -f docker-compose.override.yml
-      ln -s docker-compose.override.https.yml docker-compose.override.yml
+        cd django-DefectDojo
+        rm -f docker-compose.override.yml
+        ln -s docker-compose.override.https.yml docker-compose.override.yml
   - Open https://server_ip:8443
 
 - Custom Certificate:
@@ -80,10 +79,8 @@ Databases:
 - postgres-rabbitmq 
 - postgres-redis*
 
-
-    ./dc-up-d.sh mysql-rabbitmq --env-file ./docker/environments/mysql-rabbitmq.env
+        ./dc-up-d.sh mysql-rabbitmq --env-file ./docker/environments/mysql-rabbitmq.env
 
 - env files in env directory:
 
-
-    ./docker/environments/
+        ./docker/environments/
