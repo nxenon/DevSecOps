@@ -6,7 +6,7 @@ In **Design** / **Plan** Phase:
 - Threat Models & Security Requirements should be designed and defined
 - Risks & Plans for preventing threats from happening should be identified
 
-## Notes:
+## Notes & Resources:
 - Development Lifecycle
   - [SDL (Security Development Lifecycle) by Microsoft](./Design/Development-Lifecycle/SDL-by-Microsoft.md)
   - [How to Ensure Security at the Speed of DevSecOps by Gitlab](./Design/Development-Lifecycle/How-to-Ensure-Security-at-the-Speed-of-DevOps-by-Gitlab.md)
@@ -20,11 +20,13 @@ In **Develop** Phase:
 - Static Analysis Security Testing (SAST) can be integrated into developers environment
   - when developer is actively coding (e.g. a SAST IDE Plugin)
 
-## Notes
+## Notes & Resources
 - Secure Coding
   - [OWASP Secure Coding Practices](./Develop/Secure-Coding/OWASP-Secure-Coding-Practices.md)
 - SAST in Developer's Environment
-  - TODO
+  - [SonarLint](https://www.sonarsource.com/)
+  - [Semgrep](https://semgrep.dev/)
+  - [Snyk](https://snyk.io/)
 
 # DevSecOps Tools
 - Vulnerability Management
