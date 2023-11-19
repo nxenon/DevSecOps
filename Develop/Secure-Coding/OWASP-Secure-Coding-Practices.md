@@ -61,7 +61,12 @@ Check list format that can be integrated into the software development lifecycle
       - address alternate representation like: `%c0%ae%c0%ae/`
 
 ### Output Encoding
-
+17. all encoding on a trusted system e.g., `the Server`
+18. Utilize a standard method for each type of output encoding
+19. Encode output `based on the context` it will be in.
+20. Encode all characters unless they are known to be safe for the intended interpreter
+21. Sanitize output of un-trusted data to queries based on `context` e.g. SQL, XML, LDAP
+22. Sanitize output of un-trusted data to `OS Commands`
 
 ### Authentication & Password Management
 
