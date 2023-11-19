@@ -10,12 +10,12 @@ In **Design** / **Plan** Phase:
 - `Risks` & `Plans` for preventing threats from happening should be identified
 
 
-- Development Lifecycle
-  - [SDL (Security Development Lifecycle) by Microsoft](./Design/Development-Lifecycle/SDL-by-Microsoft.md)
-  - [How to Ensure Security at the Speed of DevSecOps by Gitlab](./Design/Development-Lifecycle/How-to-Ensure-Security-at-the-Speed-of-DevOps-by-Gitlab.md)
-- Threat Model
-  - [Threat Modeling by OWASP](./Design/Threat-Model/Threat-Modeling-by-OWASP.md)
-  - [Structured Threat Modeling Process by OWASP](./Design/Threat-Model/Threat-Modeling-Process-By-OWASP.md)
+### Development Lifecycle
+- [SDL (Security Development Lifecycle) by Microsoft](./Design/Development-Lifecycle/SDL-by-Microsoft.md)
+- [How to Ensure Security at the Speed of DevSecOps by Gitlab](./Design/Development-Lifecycle/How-to-Ensure-Security-at-the-Speed-of-DevOps-by-Gitlab.md)
+### Threat Model
+- [Threat Modeling by OWASP](./Design/Threat-Model/Threat-Modeling-by-OWASP.md)
+- [Structured Threat Modeling Process by OWASP](./Design/Threat-Model/Threat-Modeling-Process-By-OWASP.md)
 
 ## 🧑‍💻 Develop
 In **Develop** Phase:
@@ -24,12 +24,12 @@ In **Develop** Phase:
   - when developer is actively coding (e.g. a SAST IDE Plugin)
 
 
-- Secure Coding
-  - [OWASP Secure Coding Practices](./Develop/Secure-Coding/OWASP-Secure-Coding-Practices.md)
-- SAST in Developer's Environment
-  - [SonarLint](https://www.sonarsource.com/)
-  - [Semgrep](https://semgrep.dev/)
-  - [Snyk](https://snyk.io/)
+### Secure Coding
+- [OWASP Secure Coding Practices](./Develop/Secure-Coding/OWASP-Secure-Coding-Practices.md)
+### SAST in Developer's Environment
+- [SonarLint](https://www.sonarsource.com/)
+- [Semgrep](https://semgrep.dev/)
+- [Snyk](https://snyk.io/)
 
 # ⚒️ Build
 In **Build** Phase:
@@ -39,19 +39,21 @@ In **Build** Phase:
   - `Interactive Application Security Testing (IAST)` should be performed to test in an automated way and find vulnerabilities faster in run-time
 
 
-- Static Application Security Testing (SAST)
-  - TODO
-- Software Composition Analysis (SCA)
-  - TODO
-- Secret Management
-  - TODO
-- Interactive Application Security Testing (IAST)
-  - TODO
+### Static Application Security Testing (SAST)
+- TODO
+### Software Composition Analysis (SCA)
+- TODO
+### Secret Management
+- TODO
+### Interactive Application Security Testing (IAST)
+- TODO
 
 # ⛏️ DevSecOps Tools
-- Vulnerability Management
-  - DefectDojo
-    - [DefectDojo Installation & Setup Notes](./Tools/DefectDojo/Install-Setup.md)
+Useful tools in DevSecOps + Notes
+
+## Vulnerability Management
+### DefectDojo
+- [DefectDojo Installation & Setup Notes](./Tools/DefectDojo/Install-Setup.md)
 
 # 🔃 Reference
 - [DevSecOps Roadmap](https://github.com/hahwul/DevSecOps)
