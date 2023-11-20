@@ -117,7 +117,32 @@ Check list format that can be integrated into the software development lifecycle
 57. If using third party code for authentication, inspect the code carefully to ensure it is not affected by any malicious code
 
 ### Session Management
-
+58. Use the server or framework's session management controls.
+59. Session identifier creation must always be done on a trusted system e.g. `Server`
+60. Session management controls should use well vetted algorithms that ensure sufficiently random session identifiers
+61. Set the `domain` and `path` for cookies containing authenticated session identifiers to an appropriately restricted value for the site
+62. Logout functionality should `fully` terminate the associated session or connection
+63. Logout functionality should be available from `all pages protected by authorization`
+64. Establish a session inactivity timeout that is a short as possible
+    - Balance `Risk` & `Business Functional` requirement\
+    - In most cases, it should be `no more than several hours`
+65. Disallow persistent logins and enforce periodic session terminations, even when the session is active
+    - user should receive notification to mitigate negative impact
+66. If a session was established before login:
+    - close the session first
+    - then establish a new session
+67. Generate a new session ID on any re-authentication
+68. Do not allow concurrent logins with the same user ID
+69. Do not expose session IDs in `URLs`, `error messages` or `logs`
+    - session IDs should only be located in HTTP Cookie header.
+    - Do not pass it as a GET parameter
+70. Protect server side session data from unauthorized access: `appropriate access control on server`
+71. Generate a new session ID and deactivate the old ones periodically: `avoid session hijacking`
+72. generate new session ID if the connection changes from HTTP to HTTPS
+73. Supplement standard session management for sensitive server-side operations, like account management, by utilizing per-session strong random tokens or parameters. This method can be used to prevent Cross Site Request Forgery attacks
+74. Supplement standard session management for highly sensitive or critical operations by utilizing per-request, as opposed to per-session, strong random tokens or parameters
+75. Set the `secure` attribute for cookies transmitted ofr HTTPS
+76. Set cookies with the `HttpOnly` attribute, unless you specifically require client-side access to cookie
 
 ### Access Control
 
