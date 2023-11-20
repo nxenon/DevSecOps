@@ -206,7 +206,19 @@ Check list format that can be integrated into the software development lifecycle
 130. Use a cryptographic hash function to validate log entry integrity
 
 ### Data Protection
-
+131. implement [least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
+     - user must only access to things that really needs
+132. Protect all `cached` or `temporary` copies of sensitive data stored on the server from unauthorized access and purge those temporary working files as soon as they are no longer required
+133. Encrypt highly `sensitive stored information`, like authentication verification data, even on the server side. Always use well vetted algorithms, see "Cryptographic Practices" for additional guidance
+134. Protect server-side source code from being downloaded by a user
+135. Do not store `passwords`, `connection strings` or other `sensitive information` in **clear text** or in any non-cryptographically secure manner on the client side
+136. Remove `comments` in user accessible production code that may reveal backend or other sensitive information
+137. Remove unnecessary application and system documentation as this can reveal useful information to attackers
+138. Do not include sensitive information in `HTTP GET` request parameters
+139. Disable `auto complete features` on forms expected to contain sensitive information
+140. Disable `client side caching` on pages containing sensitive information. `Cache-Control: no-store`, may be used in conjunction with the HTTP header control `Pragma: no-cache`, which is less effective, but is HTTP/1.0 backward compatible
+141. The application should `support the removal of sensitive data` when that data is no longer required
+142. Implement appropriate access controls for sensitive data stored on the server. This includes cached data, temporary files and data that should be accessible only by specific system users
 
 ### Communication Security
 
