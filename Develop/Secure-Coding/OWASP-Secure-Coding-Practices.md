@@ -172,7 +172,12 @@ Check list format that can be integrated into the software development lifecycle
 100. Create an Access Control Policy to document an application's business rules, data types and access authorization criteria and/or processes so that access can be properly provisioned and controlled. This includes identifying access requirements for both the data and system resources
 
 ### Cryptographic Practices
-
+101. All cryptographic functions must be implemented on a trusted e.g. `server`
+102. Protect master secrets from unauthorized access
+103. Cryptographic modules should fail securely
+104. All random numbers, random file names, random GUIDs, and random string should be generated using the cryptographic module's approved random number generator when these random values are intended to be un-guessable
+105. Cryptographic modules used by the application should be compliant to `FIPS 140-2` or an equivalent standard
+106. Establish and utilize a policy and process for how cryptographic keys will be managed
 
 ### Error Handling & Logging
 
