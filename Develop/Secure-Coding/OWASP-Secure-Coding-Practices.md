@@ -221,7 +221,14 @@ Check list format that can be integrated into the software development lifecycle
 142. Implement appropriate access controls for sensitive data stored on the server. This includes cached data, temporary files and data that should be accessible only by specific system users
 
 ### Communication Security
-
+143. Implement encryption for the `transmission` of all sensitive information
+144. TLS certificates should be `valid` and have the `correct domain name`, `not be expired`, and be `installed with intermediate certificates` when required
+145. Failed TLS connections `should not fall back` to an insecure connection
+146. Utilize TLS connections for all content requiring authenticated access and for all other sensitive information
+147. Utilize TLS for connections to external systems that involve sensitive information or functions
+148. Utilize a single standard TLS implementation that is configured appropriately 
+149. Specify character encodings for all connections 
+150. Filter parameters containing sensitive information from the `HTTP referer`, when linking to external sites
 
 ### System Configuration
 
