@@ -294,7 +294,21 @@ Check list format that can be integrated into the software development lifecycle
 202. Properly `free allocated memory` upon the completion of functions and `at all exit points`
 
 ### General Coding Practices
-
+202. Use `tested and approved managed code` rather than creating new unmanaged code for common tasks 
+203. Utilize task specific built-in APIs to conduct operating system tasks
+     - Do not allow application to `directly execute OS commands`
+204. Use `checksums` or `hashes` to verify the integrity of `interpreted code`, `libraries`, `executables`, and `configuration files`
+205. Utilize `locking` to prevent multiple simultaneous requests or use a synchronization mechanism to prevent race conditions
+206. Protect shared variables and resources from `inappropriate concurrent access`
+207. Explicitly `initialize` all your `variables` and other `data stores`, either during declaration or just before the first usage
+208. In cases where the application must run with elevated privileges, `raise privileges as late as possible`, and drop them as soon as possible
+209. Avoid calculation errors by understanding your programming language's underlying representation and how it interacts with numeric calculation. Pay close attention to `byte size` discrepancies, precision, **signed/unsigned distinctions, truncation, conversion and casting** between types, "not-a-number" calculations, and how your language handles numbers that are `too large` or `too small` for its underlying representation
+210. Do not pass user supplied data to any `dynamic execution function`
+211. Restrict users from `generating new code` or `altering existing code`
+212. `Review all secondary applications`, `third party code` and `libraries` to determine business necessity and validate safe functionality
+213. Implement safe updating
+     - if applications uses automate updating, implement ways to verify signature of updates
+     - Use encrypted channels to transfer the code from the host server
 
 ## Glossary
 - [See OWASP Secure Coding Practices Glossary Section](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
