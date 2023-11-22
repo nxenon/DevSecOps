@@ -235,16 +235,16 @@ Check list format that can be integrated into the software development lifecycle
 152. Ensure servers, frameworks and system components have `all patches issued` for the version in use
 153. Turn off `directory listings`
 154. Restrict the web server, **process and service accounts** to the `least privileges possible`
-155. When <u>exceptions occur</u>, fail securely
+155. When exceptions occur, fail securely
 156. Remove all unnecessary functionality and files
-157. Remove <u>test code</u> or any functionality `not intended for production`, prior to deployment
-158. Prevent <u>disclosure of your directory structure</u> in the `robots.txt` file by placing directories not intended for public indexing into an isolated parent directory. Then "Disallow" that entire parent directory in the robots.txt file rather than Disallowing each individual directory
+157. Remove test code or any functionality `not intended for production`, prior to deployment
+158. Prevent disclosure of your directory structure in the `robots.txt` file by placing directories not intended for public indexing into an isolated parent directory. Then "Disallow" that entire parent directory in the robots.txt file rather than Disallowing each individual directory
 159. `Define which HTTP methods`, GET or POST, the application will support and whether it will be handled differently in different pages in the application
-160. <u>Disable unnecessary HTTP methods</u>, such as `WebDAV extensions`. If an extended HTTP method that supports file handling is required, utilize a well-vetted authentication mechanism
+160. Disable unnecessary HTTP methods, such as `WebDAV extensions`. If an extended HTTP method that supports file handling is required, utilize a well-vetted authentication mechanism
 161. if the web server **handles both** `HTTP 1.0` and `1.1`, ensure that both are configured in a similar way or ensure that you understand any difference that may exist (e.g. handling of extended HTTP methods)
 162. Remove unnecessary information from HTTP response `headers` related to the `OS`, `web-server version` and `application frameworks`
 163. The security configuration store for the application should be able to be output in `human-readable` form to support auditing
-164. Implement an `asset management` system and register <u>system components and software</u> in it
+164. Implement an `asset management` system and register system components and software in it
 165. Isolate Production environment and Development environment (network)
      - test or Development environments are often less secure
      - test environment must be access only by authorized test groups
@@ -252,18 +252,18 @@ Check list format that can be integrated into the software development lifecycle
 
 ### Database Security
 167. Use strongly `typed parameterized queries`
-168. Utilize `input validation` and `output encoding` and be sure to address meta characters. <u>If these fail, do not run the database command</u>
+168. Utilize `input validation` and `output encoding` and be sure to address meta characters. If these fail, do not run the database command
 169. Ensure that variables are `strongly typed`
-170. The application should use the `lowest` possible <u>level of privilege</u> when accessing the database
+170. The application should use the `lowest` possible level of privilege when accessing the database
 171. Use secure credentials for database access
-172. <u>Connection strings</u> `should not be hard coded within the application`. Connection strings should be stored in a **separate configuration file** on a trusted system, and they should be `encrypted`.
+172. Connection strings `should not be hard coded within the application`. Connection strings should be stored in a **separate configuration file** on a trusted system, and they should be `encrypted`.
 173. Use stored procedures to abstract `data access` and allow for the removal of permissions to the base tables in the database
-174. `Close the connection` <u>as soon as possible</u>
+174. `Close the connection` as soon as possible
 175. Remove or change all `default database administrative passwords`. Utilize strong passwords/phrases or implement `multi-factor authentication`
-176. <u>Turn off</u> all `unnecessary database functionality` 
+176. Turn off all `unnecessary database functionality` 
      - (e.g., unnecessary stored procedures or services, utility packages, install only the minimum set of features and options required (surface area reduction))
-177. <u>Remove</u> unnecessary `default vendor content` (e.g., sample schemas)
-178. <u>Disable</u> any `default accounts` that are not required to support business requirements
+177. Remove unnecessary `default vendor content` (e.g., sample schemas)
+178. Disable any `default accounts` that are not required to support business requirements
 179. The application should connect to the database with `different credentials` for every trust distinction (e.g., user, read-only user, guest, administrators)
 
 ### File Management
