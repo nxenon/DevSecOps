@@ -231,7 +231,24 @@ Check list format that can be integrated into the software development lifecycle
 150. Filter parameters containing sensitive information from the `HTTP referer`, when linking to external sites
 
 ### System Configuration
-
+151. Ensure servers, frameworks and system components are `running the latest version`
+152. Ensure servers, frameworks and system components have `all patches issued` for the version in use
+153. Turn off `directory listings`
+154. Restrict the web server, **process and service accounts** to the `least privileges possible`
+155. When <u>exceptions occur</u>, fail securely
+156. Remove all unnecessary functionality and files
+157. Remove <u>test code</u> or any functionality `not intended for production`, prior to deployment
+158. Prevent <u>disclosure of your directory structure</u> in the `robots.txt` file by placing directories not intended for public indexing into an isolated parent directory. Then "Disallow" that entire parent directory in the robots.txt file rather than Disallowing each individual directory
+159. `Define which HTTP methods`, GET or POST, the application will support and whether it will be handled differently in different pages in the application
+160. <u>Disable unnecessary HTTP methods</u>, such as `WebDAV extensions`. If an extended HTTP method that supports file handling is required, utilize a well-vetted authentication mechanism
+161. if the web server **handles both** `HTTP 1.0` and `1.1`, ensure that both are configured in a similar way or ensure that you understand any difference that may exist (e.g. handling of extended HTTP methods)
+162. Remove unnecessary information from HTTP response `headers` related to the `OS`, `web-server version` and `application frameworks`
+163. The security configuration store for the application should be able to be output in `human-readable` form to support auditing
+164. Implement an `asset management` system and register <u>system components and software</u> in it
+165. Isolate Production environment and Development environment (network)
+     - test or Development environments are often less secure
+     - test environment must be access only by authorized test groups
+166. Implement a `software change control system` to manage and record changes to the code both in development and production
 
 ### Database Security
 
