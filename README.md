@@ -34,6 +34,10 @@ In **Develop** Phase:
   - [Semgrep on Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Semgrep.semgrep)
   - [Semgrep Plugin Page on Jetbrains](https://plugins.jetbrains.com/plugin/22622-semgrep)
 - [Snyk](https://snyk.io/)
+  - [Snyk Plugin in Visual Studio Code](https://docs.snyk.io/integrate-with-snyk/use-snyk-in-your-ide/visual-studio-code-extension)
+    - [Snyk VS Code Plugin Configuration](https://docs.snyk.io/integrate-with-snyk/use-snyk-in-your-ide/visual-studio-code-extension/visual-studio-code-extension-configuration)
+  - [Snyk Plugin in Jetbrains](https://docs.snyk.io/integrate-with-snyk/use-snyk-in-your-ide/jetbrains-plugins)
+    - [Snyk Jetbrains Plugin Configuration](https://docs.snyk.io/integrate-with-snyk/use-snyk-in-your-ide/jetbrains-plugins/configuration-environment-variables-and-proxy-for-the-jetbrains-plugins)
 
 # ⚒️ Build
 In **Build** Phase:
