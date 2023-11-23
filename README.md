@@ -61,7 +61,7 @@ Useful tools in DevSecOps + Notes
 
 ## Vulnerability Management
 ### DefectDojo
-- [DefectDojo Installation & Setup Notes](./Tools/DefectDojo/Install-Setup.md)
+- [+ DefectDojo Installation & Setup Notes](./Tools/DefectDojo/Install-Setup.md)
 
 # 🔃 Reference
 - [DevSecOps Roadmap](https://github.com/hahwul/DevSecOps)
