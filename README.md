@@ -27,7 +27,7 @@ In **Develop** Phase:
 ### Secure Coding
 - [OWASP Secure Coding Practices](./Develop/Secure-Coding/OWASP-Secure-Coding-Practices.md)
 ### SAST in Developer's Environment
-- [SonarLint](https://www.sonarsource.com/)
+- [SonarLint](https://www.sonarsource.com/products/sonarlint/)
 - [Semgrep](https://semgrep.dev/)
 - [Snyk](https://snyk.io/)
 
