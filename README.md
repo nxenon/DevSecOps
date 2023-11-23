@@ -31,6 +31,8 @@ In **Develop** Phase:
   - [Using SonarLint with SonarQube in Intellij IDE](https://medium.com/@tarunchhabra/using-sonarlint-with-sonarqube-in-intellij-ide-5128111d1b8d)
   - [Real-time Code Quality Scan with SonarLint in Visual Studio Code](https://medium.com/@dijin123/real-time-code-quality-scan-with-sonarlint-in-visual-studio-code-64c3c7b34131)
 - [Semgrep](https://semgrep.dev/)
+  - [Semgrep on Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Semgrep.semgrep)
+  - [Semgrep Plugin Page on Jetbrains](https://plugins.jetbrains.com/plugin/22622-semgrep)
 - [Snyk](https://snyk.io/)
 
 # ⚒️ Build
