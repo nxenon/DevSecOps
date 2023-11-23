@@ -2,7 +2,7 @@
 DevSecOps **Taken Notes** from articles `in addition to` resources for DevSecOps.
 
 # 📝 Notes & Resources
-Some links are resources and some links are notes which have been manually taken.
+Some links are resources and some links are notes which have been manually taken. Names which have `+` at the beginning, are taken notes.
 
 ## 🪜 Design / Plan
 In **Design** / **Plan** Phase:
@@ -11,11 +11,11 @@ In **Design** / **Plan** Phase:
 
 
 ### Development Lifecycle
-- [SDL (Security Development Lifecycle) by Microsoft](./Design/Development-Lifecycle/SDL-by-Microsoft.md)
-- [How to Ensure Security at the Speed of DevSecOps by Gitlab](./Design/Development-Lifecycle/How-to-Ensure-Security-at-the-Speed-of-DevOps-by-Gitlab.md)
+- [+ SDL (Security Development Lifecycle) by Microsoft](./Design/Development-Lifecycle/SDL-by-Microsoft.md)
+- [+ How to Ensure Security at the Speed of DevSecOps by Gitlab](./Design/Development-Lifecycle/How-to-Ensure-Security-at-the-Speed-of-DevOps-by-Gitlab.md)
 ### Threat Model
-- [Threat Modeling by OWASP](./Design/Threat-Model/Threat-Modeling-by-OWASP.md)
-- [Structured Threat Modeling Process by OWASP](./Design/Threat-Model/Threat-Modeling-Process-By-OWASP.md)
+- [+ Threat Modeling by OWASP](./Design/Threat-Model/Threat-Modeling-by-OWASP.md)
+- [+ Structured Threat Modeling Process by OWASP](./Design/Threat-Model/Threat-Modeling-Process-By-OWASP.md)
 
 ## 🧑‍💻 Develop
 In **Develop** Phase:
@@ -25,7 +25,7 @@ In **Develop** Phase:
 
 
 ### Secure Coding
-- [OWASP Secure Coding Practices](./Develop/Secure-Coding/OWASP-Secure-Coding-Practices.md)
+- [+ OWASP Secure Coding Practices](./Develop/Secure-Coding/OWASP-Secure-Coding-Practices.md)
 ### SAST in Developer's Environment
 - [SonarLint](https://www.sonarsource.com/products/sonarlint/)
   - [Using SonarLint with SonarQube in Intellij IDE](https://medium.com/@tarunchhabra/using-sonarlint-with-sonarqube-in-intellij-ide-5128111d1b8d)
