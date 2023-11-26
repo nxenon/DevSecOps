@@ -50,6 +50,7 @@ In **Build** Phase:
 ### Static Application Security Testing (SAST)
 - [+ What Is SAST](./Build/What-Is-SAST.md)
 - [Beginners Guide to SAST Using SonarQube by Packt.com](https://security.packt.com/beginners-guide-to-static-application-security-testing-sast-using-sonarqube/)
+- [g](https://www.opensourceforu.com/2021/02/devsecops-static-application-security-testing-using-snyk-and-sonarqube/)
 ### Software Composition Analysis (SCA)
 - TODO
 ### Secret Management
