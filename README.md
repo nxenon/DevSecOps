@@ -48,7 +48,7 @@ In **Build** Phase:
 
 
 ### Static Application Security Testing (SAST)
-- TODO
+- [+ What Is SAST](./Build/What-Is-SAST.mdg)
 ### Software Composition Analysis (SCA)
 - TODO
 ### Secret Management
