@@ -48,11 +48,11 @@ In **Build** Phase:
 
 
 ### Static Application Security Testing (SAST)
-- [+ What Is SAST](./Build/What-Is-SAST.md)
+- [+ What Is SAST](./Build/What-Is-SAST-by-Synopsys.md)
 - [Beginners Guide to SAST Using SonarQube by Packt.com](https://security.packt.com/beginners-guide-to-static-application-security-testing-sast-using-sonarqube/)
 - [SAST Using Snyk and SonarQube by OpenSourceforu.com](https://www.opensourceforu.com/2021/02/devsecops-static-application-security-testing-using-snyk-and-sonarqube/)
 ### Software Composition Analysis (SCA)
-- [+ What is Software Composition Analysis (SCA)](./Build/What-Is-Software-Composition-Analysis.md)
+- [+ What is Software Composition Analysis (SCA)](./Build/What-Is-Software-Composition-Analysis-by-Synopsys.md)
 ### Secret Management
 - TODO
 ### Interactive Application Security Testing (IAST)
