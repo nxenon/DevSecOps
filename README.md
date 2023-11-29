@@ -40,7 +40,7 @@ In **Develop** Phase:
   - [Snyk Plugin in Jetbrains](https://docs.snyk.io/integrate-with-snyk/use-snyk-in-your-ide/jetbrains-plugins)
     - [Snyk Jetbrains Plugin Configuration](https://docs.snyk.io/integrate-with-snyk/use-snyk-in-your-ide/jetbrains-plugins/configuration-environment-variables-and-proxy-for-the-jetbrains-plugins)
 
-# ⚒️ Build
+## ⚒️ Build
 In **Build** Phase:
   - `Static Application Security Testing (SAST)` should be used to find security issues in code
   - `Software Composition Analysis (SCA)` & `Software Bill of Material (SBOM)` should be done to find components and compare them against a database like National Vulnerability Database
