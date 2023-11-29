@@ -62,6 +62,18 @@ In **Build** Phase:
 - [Interactive Application Security Testing (IAST) by Snyk](https://snyk.io/learn/application-security/iast-interactive-application-security-testing/)
 - [Interactive Application Security Testing by OWASP](https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing)
 
+## 🧪 Test
+In **Test** Phase:
+- `Interactive Application Security Testing (IAST)` should be performed to test in an automated way and find vulnerabilities faster in run-time
+  - [See IAST Section](#interactive-application-security-testing-iast)
+- `Dynamic Application Security Testing (DAST)` should be done to evaluate application from `outside`
+- `Penetration Testing` should be performed to evaluate application `black box` by ethical hackers
+
+### Dynamic Application Security Testing (DAST)
+- todo
+### Penetration Testing
+- todo
+
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
 
