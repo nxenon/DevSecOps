@@ -6,7 +6,7 @@ DevSecOps **Taken Notes** from articles `in addition to` resources for DevSecOps
 Some links are resources and some links are notes which have been manually taken. Names which have `+` at the beginning, are taken notes.
 
 ## 🪜 Design / Plan
-In **Design** / **Plan** Phase:
+**Design** / **Plan** Phase Actions:
 - `Threat Models` & `Security Requirements` should be designed and defined
 - `Risks` & `Plans` for preventing threats from happening should be identified
 
@@ -19,9 +19,9 @@ In **Design** / **Plan** Phase:
 - [+ Structured Threat Modeling Process by OWASP](./Design/Threat-Model/Threat-Modeling-Process-By-OWASP.md)
 
 ## 🧑‍💻 Develop
-In **Develop** Phase:
-- `Secure Coding` should be determined
-- `Static Analysis Security Testing (SAST)` can be integrated into developers environment
+**Develop** Phase Actions:
+- `Secure Coding`
+- `Static Analysis Security Testing (SAST)`: Can be integrated into developers environment (Find security issues in code)
   - when developer is actively coding (e.g. a SAST IDE Plugin)
 
 
@@ -41,11 +41,11 @@ In **Develop** Phase:
     - [Snyk Jetbrains Plugin Configuration](https://docs.snyk.io/integrate-with-snyk/use-snyk-in-your-ide/jetbrains-plugins/configuration-environment-variables-and-proxy-for-the-jetbrains-plugins)
 
 ## ⚒️ Build
-In **Build** Phase:
-- `Static Application Security Testing (SAST)` should be used to find security issues in code
-- `Software Composition Analysis (SCA)` & `Software Bill of Material (SBOM)` should be done to find components and compare them against a database like National Vulnerability Database
-- `Secret Management` should be implemented to find **Secrets** in code
-- `Interactive Application Security Testing (IAST)` should be performed to test in an automated way and find vulnerabilities faster in run-time
+**Build** Phase Actions:
+- `Static Application Security Testing (SAST)`: Find security issues in **code**
+- `Software Composition Analysis (SCA)` & `Software Bill of Material (SBOM)`: Find components and compare them against a database like National Vulnerability Database
+- `Secret Management`: Find **Secrets**
+- `Interactive Application Security Testing (IAST)`: Test in an automated way and find vulnerabilities faster in run-time
 
 
 ### Static Application Security Testing (SAST)
@@ -63,11 +63,11 @@ In **Build** Phase:
 - [Interactive Application Security Testing by OWASP](https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing)
 
 ## 🧪 Test
-In **Test** Phase:
-- `Interactive Application Security Testing (IAST)` should be performed to test in an automated way and find vulnerabilities faster in run-time
+**Test** Phase Actions:
+- `Interactive Application Security Testing (IAST)`: Test in an automated way and find vulnerabilities faster in run-time
   - [See IAST Section](#interactive-application-security-testing-iast)
-- `Dynamic Application Security Testing (DAST)` should be done to evaluate application from `outside` automatically
-- `Penetration Testing` should be performed to evaluate application `black box` by ethical hackers
+- `Dynamic Application Security Testing (DAST)`: Evaluate application from `outside` automatically
+- `Penetration Testing`: Evaluate application `black box` by ethical hackers
 
 ### Dynamic Application Security Testing (DAST)
 - [Dynamic Application Security Testing with ZAP and GitHub Actions](https://www.zaproxy.org/blog/2020-05-15-dynamic-application-security-testing-with-zap-and-github-actions/)
@@ -76,9 +76,9 @@ In **Test** Phase:
 - [Penetration Testing at DevSecOps Speed](https://www.breachlock.com/resources/blog/penetration-testing-at-devsecops-speed/)
 
 ## ⚓ Deploy
-In **Deploy** Phase:
-- `Hardening & Secure Configuration` should be performed
-- `Security Scanning` of images should be done
+**Deploy** Phase Actions:
+- `Hardening & Secure Configuration`
+- `Security Scanning` 
 
 ### Hardening & Secure Configuration
 - TODO
