@@ -1,3 +1,4 @@
+<img src="https://github.com/nxenon/DevSecOps/assets/61124903/07f55353-3a61-4340-844b-af61ec1fe1f5" width="75%" valign="middle" alt="DevSecOps" />&nbsp;&nbsp; 
 # [What Is Software Composition Analysis](https://www.synopsys.com/glossary/what-is-software-composition-analysis.html)
 - 📝 Taken notes from "What Is Software Composition Analysis" BY Synopsys  
 

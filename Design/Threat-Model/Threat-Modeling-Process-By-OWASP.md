@@ -1,3 +1,4 @@
+<img src="https://github.com/nxenon/DevSecOps/assets/61124903/07f55353-3a61-4340-844b-af61ec1fe1f5" width="75%" valign="middle" alt="DevSecOps" />&nbsp;&nbsp; 
 # [Threat Modeling Process by OWASP](https://owasp.org/www-community/Threat_Modeling_Process)
 
 ## Introduction
