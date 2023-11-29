@@ -75,6 +75,16 @@ In **Test** Phase:
 ### Penetration Testing
 - [Penetration Testing at DevSecOps Speed](https://www.breachlock.com/resources/blog/penetration-testing-at-devsecops-speed/)
 
+## ⚓ Deploy
+In **Deploy** Phase:
+- `Hardening & Secure Configuration` should be performed
+- `Security Scanning` of images should be done
+
+### Hardening & Secure Configuration
+- TODO
+### Security Scanning
+- TODO
+
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
 
