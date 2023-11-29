@@ -54,6 +54,7 @@ In **Build** Phase:
 - [SAST Using Snyk and SonarQube by OpenSourceforu.com](https://www.opensourceforu.com/2021/02/devsecops-static-application-security-testing-using-snyk-and-sonarqube/)
 ### Software Composition Analysis (SCA)
 - [+ What is Software Composition Analysis (SCA) on Synopsys](./Build/What-Is-Software-Composition-Analysis-by-Synopsys.md)
+- [+ Guide to Software Composition Analysis by Snyk](Build/Guide-to-Software-Composition-Analysis-by-Snyk.md)
 ### Secret Management
 - TODO
 ### Interactive Application Security Testing (IAST)
