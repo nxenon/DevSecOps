@@ -56,7 +56,8 @@ In **Build** Phase:
 - [+ What is Software Composition Analysis (SCA) on Synopsys](./Build/What-Is-Software-Composition-Analysis-by-Synopsys.md)
 - [+ Guide to Software Composition Analysis by Snyk](Build/Guide-to-Software-Composition-Analysis-by-Snyk.md)
 ### Secret Management
-- TODO
+- [Secret Management: Tools & Best Practice by Snyk](https://snyk.io/learn/secrets-management/)
+- [Secret Management Cheat Sheet by OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
 ### Interactive Application Security Testing (IAST)
 - TODO
 
