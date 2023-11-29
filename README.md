@@ -66,13 +66,14 @@ In **Build** Phase:
 In **Test** Phase:
 - `Interactive Application Security Testing (IAST)` should be performed to test in an automated way and find vulnerabilities faster in run-time
   - [See IAST Section](#interactive-application-security-testing-iast)
-- `Dynamic Application Security Testing (DAST)` should be done to evaluate application from `outside`
+- `Dynamic Application Security Testing (DAST)` should be done to evaluate application from `outside` automatically
 - `Penetration Testing` should be performed to evaluate application `black box` by ethical hackers
 
 ### Dynamic Application Security Testing (DAST)
-- todo
+- [Dynamic Application Security Testing with ZAP and GitHub Actions](https://www.zaproxy.org/blog/2020-05-15-dynamic-application-security-testing-with-zap-and-github-actions/)
+- [Dynamic Application Security Testing by Gitlab](https://docs.gitlab.com/ee/user/application_security/dast/)
 ### Penetration Testing
-- todo
+- [Penetration Testing at DevSecOps Speed](https://www.breachlock.com/resources/blog/penetration-testing-at-devsecops-speed/)
 
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
