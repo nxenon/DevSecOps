@@ -59,6 +59,9 @@ In **Build** Phase:
 ### Interactive Application Security Testing (IAST)
 - TODO
 
+# 🔗 Other Resources
+- [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
+
 # ⛏️ DevSecOps Tools
 Useful tools in DevSecOps + Notes
 
