@@ -1,4 +1,4 @@
-# ♾️ DevSecOps
+# <img src="https://github.com/nxenon/DevSecOps/assets/61124903/610cf38a-a2c3-4e1b-9cfe-42b3a333ea50" width="20%" valign="middle" alt="H2SpaceX" />&nbsp;&nbsp; ♾️ DevSecOps
 DevSecOps **Taken Notes** from articles `in addition to` resources for DevSecOps.
 
 # 📝 Notes & Resources
