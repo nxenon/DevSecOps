@@ -59,7 +59,8 @@ In **Build** Phase:
 - [Secret Management: Tools & Best Practice by Snyk](https://snyk.io/learn/secrets-management/)
 - [Secret Management Cheat Sheet by OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
 ### Interactive Application Security Testing (IAST)
-- TODO
+- [Interactive Application Security Testing (IAST) by Snyk](https://snyk.io/learn/application-security/iast-interactive-application-security-testing/)
+- [Interactive Application Security Testing by OWASP](https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing)
 
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
