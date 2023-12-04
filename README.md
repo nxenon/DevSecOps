@@ -81,7 +81,7 @@ Some links are resources and some links are notes which have been manually taken
 - `Security Scanning` 
 
 ### Hardening & Secure Configuration
-- TODO
+- [OWASP Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 ### Security Scanning
 - TODO
 
