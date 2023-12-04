@@ -80,13 +80,12 @@ Some links are resources and some links are notes which have been manually taken
 - `Hardening & Secure Configuration`
 - `Security Scanning` 
 
-### Hardening & Secure Configuration
+### Hardening & Secure Configuration & Security Scanning
 - [OWASP Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html)
 - [Docker Security](https://docs.docker.com/engine/security/)
 - [Docker Security Best Practices by Aquasec](https://blog.aquasec.com/docker-security-best-practices)
 - [Docker Security Scanning by Snyk](https://snyk.io/learn/docker-security-scanning/)
-### Security Scanning
-- TODO
+- [Automate Container Security Scanning](https://www.docker.com/blog/automating-your-containers-security-scanning/)
 
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
