@@ -61,6 +61,7 @@ Some links are resources and some links are notes which have been manually taken
 ### Interactive Application Security Testing (IAST)
 - [Interactive Application Security Testing (IAST) by Snyk](https://snyk.io/learn/application-security/iast-interactive-application-security-testing/)
 - [Interactive Application Security Testing by OWASP](https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing)
+- [Jumpstarting your DevSecOps - Pipeline with IAST & RASP](https://2018.appsec.eu/presos/DevOps_Jumpstarting-Your-DevSecOps_Jeff-Williams_AppSecEU2018.pdf)
 
 ## 🧪 Test
 **Test** Phase Actions:
@@ -86,6 +87,18 @@ Some links are resources and some links are notes which have been manually taken
 - [Docker Security Best Practices by Aquasec](https://blog.aquasec.com/docker-security-best-practices)
 - [Docker Security Scanning by Snyk](https://snyk.io/learn/docker-security-scanning/)
 - [Automate Container Security Scanning](https://www.docker.com/blog/automating-your-containers-security-scanning/)
+
+## Operate & Monitor
+**Operate & Monitor** Phase Actions:
+- `Run-time Application Self-Protection (RASP)`
+- `Security Audit`
+- `Monitor`: Metrics, Monitoring and alerting
+- `Security Patch`
+
+### Runtime Application Self-Protection (RASP)
+- [Runtime Application Self-Protection (RASP) by Rapid7](https://www.rapid7.com/fundamentals/runtime-application-self-protection/)
+- [Top 7 RASP Software](https://expertinsights.com/insights/the-top-7-runtime-application-self-protection-rasp-software/)
+- [Jumpstarting your DevSecOps - Pipeline with IAST & RASP](https://2018.appsec.eu/presos/DevOps_Jumpstarting-Your-DevSecOps_Jeff-Williams_AppSecEU2018.pdf)
 
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
