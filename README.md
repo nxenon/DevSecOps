@@ -105,6 +105,7 @@ Some links are resources and some links are notes which have been manually taken
 
 ### Monitor
 - [Monitoring - DevSecOps Guides](https://devsecopsguides.com/docs/operate/monitoring/)
+- [Metrics DevSecOps Need to Monitor - Insights for Professionals](https://www.insightsforprofessionals.com/it/software/metrics-devsecops-need-to-monitor)
 
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
