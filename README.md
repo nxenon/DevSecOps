@@ -88,7 +88,7 @@ Some links are resources and some links are notes which have been manually taken
 - [Docker Security Scanning by Snyk](https://snyk.io/learn/docker-security-scanning/)
 - [Automate Container Security Scanning](https://www.docker.com/blog/automating-your-containers-security-scanning/)
 
-## Operate & Monitor
+## 🖥️ Operate & Monitor
 **Operate & Monitor** Phase Actions:
 - `Run-time Application Self-Protection (RASP)`
 - `Security Audit`
