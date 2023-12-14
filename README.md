@@ -100,6 +100,9 @@ Some links are resources and some links are notes which have been manually taken
 - [Top 7 RASP Software](https://expertinsights.com/insights/the-top-7-runtime-application-self-protection-rasp-software/)
 - [Jumpstarting your DevSecOps - Pipeline with IAST & RASP](https://2018.appsec.eu/presos/DevOps_Jumpstarting-Your-DevSecOps_Jeff-Williams_AppSecEU2018.pdf)
 
+### Security Audit
+- [DevSecOps Compliance - Make your Auditors Job Easier](https://www.redhat.com/en/blog/devsecops-compliance-make-your-auditors-job-easier)
+
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
 
