@@ -103,6 +103,9 @@ Some links are resources and some links are notes which have been manually taken
 ### Security Audit
 - [DevSecOps Compliance - Make your Auditors Job Easier](https://www.redhat.com/en/blog/devsecops-compliance-make-your-auditors-job-easier)
 
+### Monitor
+- [Monitoring - DevSecOps Guides](https://devsecopsguides.com/docs/operate/monitoring/)
+
 # 🔗 Other Resources
 - [Open Source Security Report by Snyk](https://snyk.io/reports/open-source-security/)
 
