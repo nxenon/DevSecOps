@@ -71,6 +71,7 @@ Some links are resources and some links are notes which have been manually taken
 - `Penetration Testing`: Evaluate application `black box` by ethical hackers
 
 ### Dynamic Application Security Testing (DAST)
+- [Integrating Dastardly with your CI/CD platform (generic instructions) by PortSwigger](https://portswigger.net/burp/documentation/dastardly/generic)
 - [Dynamic Application Security Testing with ZAP and GitHub Actions](https://www.zaproxy.org/blog/2020-05-15-dynamic-application-security-testing-with-zap-and-github-actions/)
 - [Dynamic Application Security Testing by Gitlab](https://docs.gitlab.com/ee/user/application_security/dast/)
 ### Penetration Testing
