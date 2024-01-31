@@ -113,10 +113,10 @@ Some links are resources and some links are notes which have been manually taken
 This part contains `DevSecOps integration` resources separated by different CI/CD tools like Gitlab, Azure DevOps and...
 
 ## ♻️ Azure DevOps
-- TODO
+- [Integrating and Running SonarQube into Azure Pipelines by Cumhur Akkaya](https://cmakkaya.medium.com/devsecops-2-integrating-and-running-sonarqube-into-azure-pipelines-and-examining-the-test-results-41f37698254a)
 
 ## 😺 Gitlab CI/CD
-- TODO
+- [GitLab Integration | Mapping your organization into SonarQube](https://youtu.be/XX0ey4rRvms?si=4jEc9A7btClMkooy)
 
 # 🎒 Courses
 - [DevSecOps with Azure DevOps: Secure CI/CD with Azure DevOps by Raghu at Udemy](https://www.udemy.com/course/devsecops-with-azure-devops/)
