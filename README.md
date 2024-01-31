@@ -1,6 +1,6 @@
 [<img src="https://github.com/nxenon/DevSecOps/assets/61124903/07f55353-3a61-4340-844b-af61ec1fe1f5" width="75%" valign="middle" alt="DevSecOps" />&nbsp;&nbsp;](https://github.com/nxenon/DevSecOps) 
 # ♾️ DevSecOps
-DevSecOps **Taken Notes** from articles `in addition to` resources for DevSecOps.
+DevSecOps **Taken Notes** from articles `in addition to` (resources|courses|tools) for DevSecOps.
 
 # 📝 Notes & Resources
 Some links are resources and some links are notes which have been manually taken. Names which have `+` at the beginning, are taken notes.
