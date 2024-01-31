@@ -109,6 +109,15 @@ Some links are resources and some links are notes which have been manually taken
 - [Monitoring - DevSecOps Guides](https://devsecopsguides.com/docs/operate/monitoring/)
 - [Metrics DevSecOps Need to Monitor - Insights for Professionals](https://www.insightsforprofessionals.com/it/software/metrics-devsecops-need-to-monitor)
 
+# 🪈 CI/CD (DevOps) - Pipeline Tools
+This part contains `DevSecOps integration` resources separated by different CI/CD tools like Gitlab, Azure DevOps and...
+
+## ♻️ Azure DevOps
+- TODO
+
+## 😺 Gitlab CI/CD
+- TODO
+
 # 🎒 Courses
 - [DevSecOps with Azure DevOps: Secure CI/CD with Azure DevOps by Raghu at Udemy](https://www.udemy.com/course/devsecops-with-azure-devops/)
 - [DevSecOps with GitLab: Secure CI/CD with GitLab (2023) by Raghu at Udemy](https://www.udemy.com/course/devsecops-with-gitlab/)
