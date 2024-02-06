@@ -89,6 +89,7 @@ Some links are resources and some links are notes which have been manually taken
 - [Docker Security Best Practices by Aquasec](https://blog.aquasec.com/docker-security-best-practices)
 - [Docker Security Scanning by Snyk](https://snyk.io/learn/docker-security-scanning/)
 - [Automate Container Security Scanning](https://www.docker.com/blog/automating-your-containers-security-scanning/)
+- [Making your NGINX Server more secure to host your web apps](https://medium.com/@wasantosfi/making-your-nginx-server-more-secure-to-host-your-web-apps-f0b7fbc18105)
 
 ## 🖥️ Operate & Monitor
 **Operate & Monitor** Phase Actions:
