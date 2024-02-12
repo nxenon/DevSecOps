@@ -55,6 +55,8 @@ Some links are resources and some links are notes which have been manually taken
 ### Software Composition Analysis (SCA)
 - [+ What is Software Composition Analysis (SCA) on Synopsys](./Build/What-Is-Software-Composition-Analysis-by-Synopsys.md)
 - [+ Guide to Software Composition Analysis by Snyk](Build/Guide-to-Software-Composition-Analysis-by-Snyk.md)
+- [Software Bill of Materials: How to generate an SBOM from container images using Syft](https://youtu.be/9oj3BC3vOtc?si=f6kx8xsr3cu_Rtal)
+- [Grype Open Source Vulnerability Scanner Demo](https://youtu.be/-8x-mxeAEEo?si=dULlrNM8VkDLU5z8)
 ### Secret Management
 - [Secret Management: Tools & Best Practice by Snyk](https://snyk.io/learn/secrets-management/)
 - [Secret Management Cheat Sheet by OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html)
