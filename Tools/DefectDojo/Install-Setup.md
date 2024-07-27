@@ -28,7 +28,7 @@
   - Open https://server_ip:8443
 
 - Custom Certificate:
-  - TODO
+  - [HTTPS README](https.md)
 
 ### Scripts
 
