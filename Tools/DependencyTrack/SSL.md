@@ -10,29 +10,29 @@
 4. Copy your certificate and private key into these directories:
 
 
-    /etc/nginx/ssl/nginx.crt;
-    /etc/nginx/ssl/nginx.key;
+        /etc/nginx/ssl/nginx.crt;
+        /etc/nginx/ssl/nginx.key;
 
 
 5. Change the nginx config:
 
    
-    #user  nobody;
-    worker_processes  1;
+        #user  nobody;
+        worker_processes  1;
     
-    #error_log  logs/error.log;
-    #error_log  logs/error.log  notice;
-    #error_log  logs/error.log  info;
+        #error_log  logs/error.log;
+        #error_log  logs/error.log  notice;
+        #error_log  logs/error.log  info;
     
-    #pid        logs/nginx.pid;
+        #pid        logs/nginx.pid;
     
     
-    events {
+        events {
         worker_connections  1024;
-    }
+        }    
     
     
-    http {
+        http {
         include       mime.types;
         default_type  application/octet-stream;
     
@@ -99,8 +99,8 @@
                 proxy_set_header X-Forwarded-Proto $scheme;
 
             }
-    }
-    }
+        }
+        }
 
 6. Now nginx forwards your requests to backend api and front-end containers.
 
