@@ -131,6 +131,10 @@ This part contains `DevSecOps integration` resources separated by different CI/C
 # ⛏️ DevSecOps Tools
 Useful tools in DevSecOps + Notes
 
+## SCA
+### Dependency Track
+- [+ Dependency Track SSL Setup](./Tools/DependencyTrack/SSL.md)
+
 ## Vulnerability Management
 ### DefectDojo
 - [+ DefectDojo Installation & Setup Notes](./Tools/DefectDojo/Install-Setup.md)
