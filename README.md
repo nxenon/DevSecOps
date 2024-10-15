@@ -133,7 +133,9 @@ Useful tools in DevSecOps + Notes
 
 ## SCA
 ### Dependency Track
+- [Dependency Track README](./Tools/DependencyTrack/README.md)
 - [+ Dependency Track SSL Setup](./Tools/DependencyTrack/SSL.md)
+- [+ Dependency Track Report Chart Creation Per Product](./Tools/DependencyTrack/chart.md)
 
 ## Vulnerability Management
 ### DefectDojo
