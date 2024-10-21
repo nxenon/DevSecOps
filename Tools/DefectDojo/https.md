@@ -1,8 +1,9 @@
 Steps to use HTTPS:
 1. Update [docker-compose.override.https.yml](#docker-composeoverridehttpsyml)
 2. Update [nginx_TLS.conf](#nginxtlsconf)
-3. Add **volumes** for cert and private key in [docker-compose.yml](#docker-composeyml)
-4. Add **TRUSTED** in [nginx.crt](#nginxcrt)
+3. Copy your certificate and private key in django-DefectDojo/nginx/ssl directory
+4. Add **volumes** for cert and private key in [docker-compose.yml](#docker-composeyml)
+5. Add **TRUSTED** in [nginx.crt](#nginxcrt)
    1. `-----BEGIN CERTIFICATE-----` --> `-----BEGIN TRUSTED CERTIFICATE-----`
    2. `-----END CERTIFICATE-----` --> `-----END TRUSTED CERTIFICATE-----`
 
@@ -187,8 +188,8 @@ Steps to use HTTPS:
           NGINX_METRICS_ENABLED: "${NGINX_METRICS_ENABLED:-false}"
         volumes:
           - defectdojo_media:/usr/share/nginx/html/media
-          - /home/USER/django-DefectDojo/nginx/ssl/nginx.crt:/etc/nginx/ssl/nginx.crt
-          - /home/USER/django-DefectDojo/nginx/ssl/nginx.key:/etc/nginx/ssl/nginx.key
+          - /home/USER/django-DefectDojo/nginx/ssl:/etc/nginx/ssl
+          - /home/USER/django-DefectDojo/nginx/ssl:/etc/nginx/ssl
           ...
 
 ## nginx.crt
