@@ -135,7 +135,8 @@ Useful tools in DevSecOps + Notes
 ### Dependency Track
 - [Dependency Track README](./Tools/DependencyTrack/README.md)
 - [+ Dependency Track SSL Setup](./Tools/DependencyTrack/SSL.md)
-- [+ Dependency Track Report Chart Creation Per Product](./Tools/DependencyTrack/chart.md)
+- [+ Dependency Track Report Chart Creation Per Product](./Tools/DependencyTrack/chart.md) Dependency Track Reporting Chart Creator
+- [+ Dependency Track & DefectDojo Integration](./Tools/DependencyTrack/defectdojo_integration.md) Defect Dojo and Dependency Track integration automation script
 
 ## Vulnerability Management
 ### DefectDojo
