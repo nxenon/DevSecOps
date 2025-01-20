@@ -1,8 +1,3 @@
-"""
-Upload (Pentest) findings to DefectDojo
-By Test ID (Add findings to Tests)
-You have to create Engagement, then Test, then run this script
-"""
 import pandas as pd
 import requests
 import sys
