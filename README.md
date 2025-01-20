@@ -142,6 +142,7 @@ Useful tools in DevSecOps + Notes
 ### DefectDojo
 - [+ DefectDojo Installation & Setup Notes](./Tools/DefectDojo/Install-Setup.md)
 - [+ DefectDojo SSL (HTTPS)](./Tools/DefectDojo/https.md)
+- [+ DefectDojo Pentest Finding (vulnerability) Uploader](./Tools/DefectDojo/Finding-Uploader-Script/README.md) Automatically upload findings to DefectDojo by filling a simple CSV file.
 
 # 🔃 Reference
 - [DevSecOps Roadmap](https://github.com/hahwul/DevSecOps)

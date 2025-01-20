@@ -1,0 +1,3 @@
+﻿Title,Finding Date,Publish Date,Severity,Description,Mitigation,Impact,Steps to Reproduce,Severity Justification,Endpoints,References,CVSSv3 Score,Component Name,Component Version
+XSS,2024-10-06,2024-10-06,Medium,XSS on Login,Input Validation,,,Amin,/login,OWASP,8.2,,
+XSS2,2024-10-06,2024-10-06,Medium,XSS on Login,Input Validation,,,Amin,/login,OWASP,8.2,,
